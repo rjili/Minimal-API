@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PvWQKB42t7nAIHcLu15sAjK3Zff8VO9DOYzrAV9UHe0=",
+  "Source": "DotnetDocsShow.Structured.Scanning",
+  "BasePath": "_content/DotnetDocsShow.Structured.Scanning",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
